@@ -1,4 +1,4 @@
 Tumblr
 ======
 
-My tumblr site running on rails
+My tumblr site http://amyrhaq.tumblr.com
